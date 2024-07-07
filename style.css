@@ -24,7 +24,7 @@
 #hero {
     height: 615px;
     background: linear-gradient(180.00deg, rgb(16, 16, 16) -19.5%,rgba(16, 16, 16, 0) 100%) ,
-    url("/assets/hero-bg.png");
+    url("assets/hero-bg.png");
     
     
     background-size: cover;
